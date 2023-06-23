@@ -1,1 +1,4 @@
-Branch Master. Version 2 upgr
+<<<<<<< HEAD
+Branch Joined. Version 2 upgr
+
+>>>>>>> edition
